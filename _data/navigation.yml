@@ -1,0 +1,32 @@
+# main links
+main:
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+
+sidebar-category:
+  - title: "Programming"
+    children:
+      - title: "Swift"
+        url: "/swift"
+        category: "swift"
+      
+      - title: "Flutter"
+        url: "/flutter"
+        category: "flutter"
+
+      - title: "Blog"
+        url: "/blog"
+        category: "blog"
+        
+      - title: "Etc"
+        url: "/etc"
+        category: "etc"
