@@ -18,6 +18,7 @@ sidebar-category:
       - title: "Sparta"
         url: "/sparta"
         category: "sparta"
+        
       - title: "Etc"
         url: "/etc"
         category: "etc"

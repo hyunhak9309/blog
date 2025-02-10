@@ -1,10 +1,9 @@
 ---
 title: "Sparta"
-layout: archive
-permalink: /sparta/
+layout: category
+permalink: /categories/sparta/
+taxonomy: sparta
 author_profile: true
-sidebar:
-  nav: "sidebar-category"
 ---
 
 {% raw %}
