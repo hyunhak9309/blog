@@ -24,7 +24,7 @@ description              : "Survival record of StartUp developers"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/ko"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "assets/images/profile_image.jpeg"
+teaser                   : #"assets/images/profile_image.jpeg"
 logo                     : #"assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyunhak"
-  avatar           : "assets/images/logo.png"
+  avatar           : "assets/images/profile_image.jpeg"
   bio              : "Developer who enjoys growth"
   location         : "Anywhere there is internet"
   email            :
