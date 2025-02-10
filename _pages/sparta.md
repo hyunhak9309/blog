@@ -12,4 +12,4 @@ sidebar:
 {% for post in posts %}
   {% include archive-single.html %}
 {% endfor %}
-{% endraw %} 
+{% endraw %}        
