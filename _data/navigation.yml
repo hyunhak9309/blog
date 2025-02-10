@@ -24,10 +24,6 @@ sidebar-category:
 
   - title: "Programming"
     children:
-      - title: "Swift"
-        url: "/swift"
-        category: "swift"
-      
       - title: "Flutter"
         url: "/flutter"
         category: "flutter"
