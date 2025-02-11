@@ -1,14 +1,11 @@
 ---
 title: "Sparta"
-layout: category
-permalink: /categories/sparta/
-taxonomy: sparta
+layout: archive
+permalink: /sparta/
 author_profile: true
 ---
 
-{% raw %}
 {% assign posts = site.categories.sparta %}
 {% for post in posts %}
   {% include archive-single.html %}
-{% endfor %}
-{% endraw %}        
+{% endfor %}        
